@@ -1,0 +1,147 @@
+body {
+  background: rgb(34, 33, 33);
+  /* width: 100vw; */
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.main {
+  width: 250px;
+  height: 250px;
+  display: flex;
+  /* border: 2px solid bisque; */
+  align-items: center;
+  justify-content: center;
+
+  
+
+}
+.first {
+  background: rgb(142, 187, 176);
+  height: 15px;
+  width: 1px;
+  margin-left:7px;
+}
+.second {
+  background: rgb(132, 198, 180);
+  height: 35px;
+  width: 1.5px;
+  margin-left:7px;
+}
+.third {
+  background: rgb(122, 207, 196);
+  height: 50px;
+  width: 2px;
+  margin-left:7px;
+}
+.fourth {
+  background: rgb(122, 217, 206);
+  height: 60px;
+  width: 2.5px;
+  margin-left:7px;
+}
+.fifth {
+  background: rgb(112, 227, 216);
+  height: 75px;
+  width: 3px;
+  margin-left:7px;
+}
+.sixth {
+  background: rgb(102, 237, 226);
+  height: 85px;
+  width: 3.5px;
+  margin-left:7px;
+}
+.seventh {
+  background: rgb(92, 247, 236);
+  height: 95px;
+  width: 4px;
+  margin-left:7px;
+}
+.eighth {
+  background: rgb(82, 250, 246);
+  height: 100px;
+  width: 5px;
+  margin-left:7px;
+}
+.ninth {
+  background: rgb(92, 247, 236);
+  height: 95px;
+  width: 4px;
+  margin-left:7px;
+}
+.tenth {
+  background: rgb(102, 237, 226);
+  height: 85px;
+  width: 3.5px;
+  margin-left:7px;
+}
+.eleventh {
+  background: rgb(112, 247, 216);
+  height: 75px;
+  width: 3px;
+  margin-left:7px;
+}
+.twelveth {
+    background: rgb(102, 237, 206);
+    height: 60px;
+    width: 2.5px;
+    margin-left:7px;
+  }.thirteenth {
+    background: rgb(92, 227, 196);
+    height: 50px;
+    width: 2px;
+    margin-left:7px;
+  }.fourteenth{
+    background: rgb(82, 217, 186);
+    height: 35px;
+    width: 1.5px;
+    margin-left:7px;
+  }
+  .fifteenth  {
+    background: rgb(72, 217, 176);
+    height: 15px;
+    width: 1px;
+    margin-left:7px;
+  }
+  .sixteenth {
+    background: rgb(152, 187, 176);
+    height: 85px;
+    width: 3.5px;
+    margin-left:7px;
+  }.seventeenth {
+    background: rgb(152, 187, 176);
+    height: 75px;
+    width: 3px;
+    margin-left:7px;
+  }.eighteenth {
+    background: rgb(152, 187, 176);
+    height: 60px;
+    width: 2.5px;
+    margin-left:7px;
+  }.ninteenth {
+    background: rgb(152, 187, 176);
+    height: 50px;
+    width: 2px;
+    margin-left:7px;
+  }.twenth {
+    background: rgb(152, 187, 176);
+    height: 35px;
+    width: 1.5px;
+    margin-left:7px;
+  }.twentyfirst {
+    background: rgb(152, 187, 176);
+    height: 15px;
+    width: 1px;
+    margin-left:7px;
+  }
+  .load h1{
+    color: rgb(33, 236, 236);
+    font-family:cursive;
+  }
+  span{
+    color:rgb(136, 219, 219);
+  }
